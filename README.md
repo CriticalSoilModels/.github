@@ -1,6 +1,5 @@
-# Welcome To Critical Soil Models👋
+# Readme for the .github
 
-This organization contains
-* Repos that contain soil constitutive models
-* A repo that integrates with incremental driver to generate tests for the soil models
-* A python repo that runs the incremental driver tests
+Contains the README for the CriticalSoilModels organization inside of the /profile folder.
+
+
